@@ -116,20 +116,6 @@ Recommended actions: Close unnecessary applications, upgrade RAM, and run disk d
 - Add logging and error tracking
 - Create a web or GUI interface
 
-## Contributing
-### How to Contribute
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/improve-diagnostics`)
-3. Add/modify knowledge base or improve matching algorithm
-4. Submit a pull request
-
 ### Contribution Guidelines
 - Maintain existing JSON structure
 - Provide clear, concise diagnostic information
-- Test thoroughly before submitting
-
-## License
-[Specify your license here - e.g., MIT, Apache 2.0]
-
-## Contact
-[Your contact information or project maintainer details]
