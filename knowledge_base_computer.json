@@ -1,0 +1,72 @@
+[
+    {
+        "fault": "Slow computer performance",
+        "cause": "Too many background processes, low RAM, or fragmented hard drive",
+        "solution": "Close unnecessary applications, upgrade RAM, and run disk defragmentation."
+    },
+    {
+        "fault": "Frequent system crashes",
+        "cause": "Outdated drivers, overheating, or corrupted system files",
+        "solution": "Update device drivers, clean computer vents, and run system file checker."
+    },
+    {
+        "fault": "Blue screen errors",
+        "cause": "Hardware conflicts, driver issues, or memory problems",
+        "solution": "Update Windows, check for hardware compatibility, and run memory diagnostic tests."
+    },
+    {
+        "fault": "Slow internet browsing",
+        "cause": "Malware, browser cache buildup, or network congestion",
+        "solution": "Run antivirus scan, clear browser cache, and reset network router."
+    },
+    {
+        "fault": "Noisy computer fan",
+        "cause": "Dust accumulation, bearing wear, or blocked ventilation",
+        "solution": "Clean computer internals, check fan mounting, and ensure proper ventilation."
+    },
+    {
+        "fault": "Startup taking too long",
+        "cause": "Too many startup programs, fragmented boot drive, or outdated hardware",
+        "solution": "Disable unnecessary startup applications, use SSD, and consider hardware upgrade."
+    },
+    {
+        "fault": "Unresponsive applications",
+        "cause": "Insufficient system resources, software conflicts, or memory leaks",
+        "solution": "Close background applications, update software, and restart the computer."
+    },
+    {
+        "fault": "USB devices not recognizing",
+        "cause": "Outdated drivers, USB port issues, or device compatibility problems",
+        "solution": "Update USB drivers, try different ports, and check device compatibility."
+    },
+    {
+        "fault": "Computer overheating",
+        "cause": "Blocked air vents, dust accumulation, or failing cooling system",
+        "solution": "Clean air vents, ensure proper ventilation, and consider replacing thermal paste."
+    },
+    {
+        "fault": "Battery draining quickly (laptop)",
+        "cause": "Old battery, power-hungry applications, or incorrect power settings",
+        "solution": "Calibrate battery, close background apps, and adjust power management settings."
+    },
+    {
+        "fault": "Wi-Fi connection drops frequently",
+        "cause": "Router interference, outdated network drivers, or signal congestion",
+        "solution": "Update network drivers, change Wi-Fi channel, and check router placement."
+    },
+    {
+        "fault": "Unexpected system updates",
+        "cause": "Automatic update settings, limited storage, or network issues",
+        "solution": "Configure update settings, free up disk space, and ensure stable internet connection."
+    },
+    {
+        "fault": "External hard drive not detected",
+        "cause": "Faulty USB cable, driver issues, or drive hardware failure",
+        "solution": "Try different USB cable, update drive drivers, and run disk diagnostic tools."
+    },
+    {
+        "fault": "Screen flickering",
+        "cause": "Outdated graphics drivers, loose cable connections, or display hardware issues",
+        "solution": "Update graphics drivers, check cable connections, and test with external monitor."
+    }
+]
