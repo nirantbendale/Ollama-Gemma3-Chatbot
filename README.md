@@ -3,6 +3,11 @@
 ## Project Description
 This is an intelligent diagnostic chatbot designed to help users troubleshoot computer issues using advanced natural language processing techniques. The chatbot combines semantic search with a local language model to provide targeted technical support for various computer problems.
 
+
+![computer](computer.png) 
+
+
+
 ## Key Features
 - **Semantic Matching**: Utilizes sentence transformers to understand and match user issues
 - **Intelligent Diagnosis**: Provides cause and solution for computer-related problems
@@ -23,6 +28,9 @@ This is an intelligent diagnostic chatbot designed to help users troubleshoot co
 - **Language Model Integration**:
   - Uses Ollama API for advanced query handling
   - Model: `gemma3`
+
+
+![flowchart](flowchart.png) 
 
 ## Prerequisites
 ### System Requirements
